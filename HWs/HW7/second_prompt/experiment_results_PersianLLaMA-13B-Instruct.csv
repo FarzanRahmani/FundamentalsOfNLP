@@ -1,0 +1,2 @@
+Model Name,Zero-shot accuracy,One-shot accuracy,Five-shot accuracy
+PersianLLaMA-13B-Instruct,0.64,0.64,0.64
