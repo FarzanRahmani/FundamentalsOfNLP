@@ -1,0 +1,2 @@
+Model Name,Zero-shot accuracy,One-shot accuracy,Five-shot accuracy
+NousResearch/Meta-Llama-3-8B-Instruct,0.75,0.75,0.4
