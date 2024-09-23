@@ -1,0 +1,2 @@
+https://github.com/Dadmatech/DadmaTools
+https://github.com/nlp-uoregon/trankit  --> Adapters
